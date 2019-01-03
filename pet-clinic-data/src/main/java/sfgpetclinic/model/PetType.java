@@ -1,4 +1,4 @@
-package ch.zhaw.logvidmi.sfgpetclinic.model;
+package sfgpetclinic.model;
 
 public class PetType {
 
