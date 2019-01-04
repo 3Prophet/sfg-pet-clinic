@@ -1,4 +1,4 @@
-package sfgpetclinic;
+package ch.zhaw.logvidmi.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
