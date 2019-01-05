@@ -1,4 +1,4 @@
-package sfgpetclinic.model;
+package ch.zhaw.logvidmi.model.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
